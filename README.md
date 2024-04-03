@@ -3,6 +3,7 @@
 <html>
 <head>
 this is new project
+new project
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <style>
 canvas {
